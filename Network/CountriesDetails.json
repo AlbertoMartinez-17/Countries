@@ -1,0 +1,52 @@
+[
+   {
+      "nombre": "Estados Unidos",
+      "capital": "Washington D.C.",
+      "idioma": "Inglés"
+   },
+   {
+      "nombre": "Canadá",
+      "capital": "Ottawa",
+      "idioma": "Inglés, Francés"
+   },
+   {
+      "nombre": "México",
+      "capital": "Ciudad de México",
+      "idioma": "Español"
+   },
+   {
+      "nombre": "Brasil",
+      "capital": "Brasilia",
+      "idioma": "Portugués"
+   },
+   {
+      "nombre": "Argentina",
+      "capital": "Buenos Aires",
+      "idioma": "Español"
+   },
+   {
+      "nombre": "España",
+      "capital": "Madrid",
+      "idioma": "Español"
+   },
+   {
+      "nombre": "Francia",
+      "capital": "París",
+      "idioma": "Francés"
+   },
+   {
+      "nombre": "Alemania",
+      "capital": "Berlín",
+      "idioma": "Alemán"
+   },
+   {
+      "nombre": "Japón",
+      "capital": "Tokio",
+      "idioma": "Japonés"
+   },
+   {
+      "nombre": "China",
+      "capital": "Pekín",
+      "idioma": "Chino (Mandarín)"
+   }
+]

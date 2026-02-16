@@ -1,0 +1,42 @@
+[
+   {
+      "nombre": "Estados Unidos",
+      "moneda": "Dólar estadounidense (USD)"
+   },
+   {
+      "nombre": "Canadá",
+      "moneda": "Dólar canadiense (CAD)"
+   },
+   {
+      "nombre": "México",
+      "moneda": "Peso mexicano (MXN)"
+   },
+   {
+      "nombre": "Brasil",
+      "moneda": "Real brasileño (BRL)"
+   },
+   {
+      "nombre": "Argentina",
+      "moneda": "Peso argentino (ARS)"
+   },
+   {
+      "nombre": "España",
+      "moneda": "Euro (EUR)"
+   },
+   {
+      "nombre": "Francia",
+      "moneda": "Euro (EUR)"
+   },
+   {
+      "nombre": "Alemania",
+      "moneda": "Euro (EUR)"
+   },
+   {
+      "nombre": "Japón",
+      "moneda": "Yen japonés (JPY)"
+   },
+   {
+      "nombre": "China",
+      "moneda": "Yuan chino (CNY)"
+   }
+]

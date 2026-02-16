@@ -1,0 +1,826 @@
+{
+    "Paises":[
+       {
+          "Estados Unidos":[
+             {
+                "estado":"California",
+                "lugares":[
+                   "Los Ángeles",
+                   "San Francisco",
+                   "Parque Nacional Yosemite"
+                ]
+             },
+             {
+                "estado":"Texas",
+                "lugares":[
+                   "Austin",
+                   "San Antonio",
+                   "Parque Nacional Big Bend"
+                ]
+             },
+             {
+                "estado":"Florida",
+                "lugares":[
+                   "Miami",
+                   "Orlando",
+                   "Parque Nacional de los Everglades"
+                ]
+             },
+             {
+                "estado":"Nueva York",
+                "lugares":[
+                   "Nueva York (Ciudad)",
+                   "Niágara Falls",
+                   "Cataratas del Niágara"
+                ]
+             },
+             {
+                "estado":"Illinois",
+                "lugares":[
+                   "Chicago",
+                   "Springfield",
+                   "Parque Millennium"
+                ]
+             },
+             {
+                "estado":"Pensilvania",
+                "lugares":[
+                   "Filadelfia",
+                   "Pittsburgh",
+                   "Valle de Brandywine"
+                ]
+             },
+             {
+                "estado":"Ohio",
+                "lugares":[
+                   "Columbus",
+                   "Cleveland",
+                   "Parque Nacional de los Apalaches"
+                ]
+             },
+             {
+                "estado":"Georgia",
+                "lugares":[
+                   "Atlanta",
+                   "Savannah",
+                   "Parque Nacional de las Islas Cercanas a la Costa"
+                ]
+             },
+             {
+                "estado":"Carolina del Norte",
+                "lugares":[
+                   "Charlotte",
+                   "Raleigh",
+                   "Asheville"
+                ]
+             },
+             {
+                "estado":"Míchigan",
+                "lugares":[
+                   "Detroit",
+                   "Traverse City",
+                   "Parque Nacional Isle Royale"
+                ]
+             }
+          ],
+          "Canadá":[
+             {
+                "estado":"Ontario",
+                "lugares":[
+                   "Toronto",
+                   "Niágara Falls",
+                   "Ottawa"
+                ]
+             },
+             {
+                "estado":"Quebec",
+                "lugares":[
+                   "Montreal",
+                   "Quebec City",
+                   "Parque Nacional de la Mauricie"
+                ]
+             },
+             {
+                "estado":"Nueva Escocia",
+                "lugares":[
+                   "Halifax",
+                   "Cabot Trail",
+                   "Parque Nacional de Cape Breton Highlands"
+                ]
+             },
+             {
+                "estado":"Nuevo Brunswick",
+                "lugares":[
+                   "Fredericton",
+                   "Saint John",
+                   "Fundy National Park"
+                ]
+             },
+             {
+                "estado":"Manitoba",
+                "lugares":[
+                   "Winnipeg",
+                   "Churchill",
+                   "Parque Nacional de Riding Mountain"
+                ]
+             },
+             {
+                "estado":"Columbia Británica",
+                "lugares":[
+                   "Vancouver",
+                   "Victoria",
+                   "Whistler"
+                ]
+             },
+             {
+                "estado":"Isla del Príncipe Eduardo",
+                "lugares":[
+                   "Charlottetown",
+                   "Parque Nacional de la Isla del Príncipe Eduardo",
+                   "Basílica de San Dionisio"
+                ]
+             },
+             {
+                "estado":"Saskatchewan",
+                "lugares":[
+                   "Regina",
+                   "Saskatoon",
+                   "Parque Nacional Grasslands"
+                ]
+             },
+             {
+                "estado":"Alberta",
+                "lugares":[
+                   "Calgary",
+                   "Edmonton",
+                   "Parque Nacional Banff"
+                ]
+             },
+             {
+                "estado":"Terranova y Labrador",
+                "lugares":[
+                   "St. John's",
+                   "Gros Morne National Park",
+                   "Labrador Coastal Drive"
+                ]
+             }
+          ],
+          "México":[
+             {
+                "estado":"Ciudad de México",
+                "lugares":[
+                   "Centro Histórico",
+                   "Museo Nacional de Antropología",
+                   "Coyoacán"
+                ]
+             },
+             {
+                "estado":"Jalisco",
+                "lugares":[
+                   "Guadalajara",
+                   "Tequila",
+                   "Puerto Vallarta"
+                ]
+             },
+             {
+                "estado":"Nuevo León",
+                "lugares":[
+                   "Monterrey",
+                   "Parque Nacional Chipinque",
+                   "Museo de Arte Contemporáneo de Monterrey"
+                ]
+             },
+             {
+                "estado":"Veracruz",
+                "lugares":[
+                   "Veracruz (Ciudad)",
+                   "Xalapa",
+                   "Tajín"
+                ]
+             },
+             {
+                "estado":"Puebla",
+                "lugares":[
+                   "Puebla (Ciudad)",
+                   "Cholula",
+                   "Cascadas de Agua Azul"
+                ]
+             },
+             {
+                "estado":"Guanajuato",
+                "lugares":[
+                   "Guanajuato (Ciudad)",
+                   "San Miguel de Allende",
+                   "Valle de Santiago"
+                ]
+             },
+             {
+                "estado":"Chiapas",
+                "lugares":[
+                   "San Cristóbal de las Casas",
+                   "Palenque",
+                   "Cascadas de Agua Azul"
+                ]
+             },
+             {
+                "estado":"Oaxaca",
+                "lugares":[
+                   "Oaxaca (Ciudad)",
+                   "Monte Albán",
+                   "Hierve el Agua"
+                ]
+             },
+             {
+                "estado":"Chihuahua",
+                "lugares":[
+                   "Chihuahua (Ciudad)",
+                   "Barrancas del Cobre",
+                   "Cascada de Basaseachi"
+                ]
+             },
+             {
+                "estado":"Michoacán",
+                "lugares":[
+                   "Morelia",
+                   "Pátzcuaro",
+                   "Parque Nacional Volcán Paricutín"
+                ]
+             }
+          ],
+          "Brasil":[
+             {
+                "estado":"São Paulo",
+                "lugares":[
+                   "São Paulo (Ciudad)",
+                   "Parque Ibirapuera",
+                   "Avenida Paulista"
+                ]
+             },
+             {
+                "estado":"Río de Janeiro",
+                "lugares":[
+                   "Río de Janeiro (Ciudad)",
+                   "Cristo Redentor",
+                   "Pan de Azúcar"
+                ]
+             },
+             {
+                "estado":"Minas Gerais",
+                "lugares":[
+                   "Belo Horizonte",
+                   "Ouro Preto",
+                   "Inhotim"
+                ]
+             },
+             {
+                "estado":"Bahía",
+                "lugares":[
+                   "Salvador",
+                   "Porto Seguro",
+                   "Praia do Forte"
+                ]
+             },
+             {
+                "estado":"Paraná",
+                "lugares":[
+                   "Curitiba",
+                   "Foz do Iguaçu",
+                   "Parque Nacional do Iguaçu"
+                ]
+             },
+             {
+                "estado":"Río Grande del Sur",
+                "lugares":[
+                   "Porto Alegre",
+                   "Gramado",
+                   "Parque Nacional de Aparados da Serra"
+                ]
+             },
+             {
+                "estado":"Pernambuco",
+                "lugares":[
+                   "Recife",
+                   "Olinda",
+                   "Porto de Galinhas"
+                ]
+             },
+             {
+                "estado":"Ceará",
+                "lugares":[
+                   "Fortaleza",
+                   "Jericoacoara",
+                   "Canoa Quebrada"
+                ]
+             },
+             {
+                "estado":"Pará",
+                "lugares":[
+                   "Belém",
+                   "Ilha de Marajó",
+                   "Alter do Chão"
+                ]
+             },
+             {
+                "estado":"Maranhão",
+                "lugares":[
+                   "São Luís",
+                   "Lençóis Maranhenses",
+                   "Parque Nacional dos Lençóis Maranhenses"
+                ]
+             }
+          ],
+          "Argentina":[
+             {
+                "estado":"Buenos Aires",
+                "lugares":[
+                   "Buenos Aires (Ciudad)",
+                   "San Telmo",
+                   "Recoleta"
+                ]
+             },
+             {
+                "estado":"Córdoba",
+                "lugares":[
+                   "Córdoba (Ciudad)",
+                   "Capilla del Monte",
+                   "Sierras de Córdoba"
+                ]
+             },
+             {
+                "estado":"Santa Fe",
+                "lugares":[
+                   "Santa Fe (Ciudad)",
+                   "Rosario",
+                   "Pre-Delta National Park"
+                ]
+             },
+             {
+                "estado":"Mendoza",
+                "lugares":[
+                   "Mendoza (Ciudad)",
+                   "Wine Route",
+                   "Cerro Aconcagua"
+                ]
+             },
+             {
+                "estado":"Tucumán",
+                "lugares":[
+                   "San Miguel de Tucumán",
+                   "Tafi del Valle",
+                   "Quilmes Ruins"
+                ]
+             },
+             {
+                "estado":"Entre Ríos",
+                "lugares":[
+                   "Paraná (Ciudad)",
+                   "Colón",
+                   "Termas de Federación"
+                ]
+             },
+             {
+                "estado":"Salta",
+                "lugares":[
+                   "Salta (Ciudad)",
+                   "Cafayate",
+                   "Tren a las Nubes"
+                ]
+             },
+             {
+                "estado":"Misiones",
+                "lugares":[
+                   "Puerto Iguazú",
+                   "Cataratas del Iguazú",
+                   "Ruinas de San Ignacio"
+                ]
+             },
+             {
+                "estado":"Chaco",
+                "lugares":[
+                   "Resistencia",
+                   "Parque Nacional Chaco",
+                   "Dunas de Tatón"
+                ]
+             },
+             {
+                "estado":"Corrientes",
+                "lugares":[
+                   "Corrientes (Ciudad)",
+                   "Esteros del Iberá",
+                   "Isla Apipé"
+                ]
+             }
+          ],
+          "España":[
+             {
+                "estado":"Madrid",
+                "lugares":[
+                   "Madrid (Ciudad)",
+                   "Museo del Prado",
+                   "Parque del Retiro"
+                ]
+             },
+             {
+                "estado":"Cataluña",
+                "lugares":[
+                   "Barcelona",
+                   "Sagrada Familia",
+                   "Parque Güell"
+                ]
+             },
+             {
+                "estado":"Andalucía",
+                "lugares":[
+                   "Sevilla",
+                   "Alhambra",
+                   "Mezquita de Córdoba"
+                ]
+             },
+             {
+                "estado":"Valencia",
+                "lugares":[
+                   "Valencia (Ciudad)",
+                   "Ciudad de las Artes y las Ciencias",
+                   "Valle de la Albufera"
+                ]
+             },
+             {
+                "estado":"Castilla y León",
+                "lugares":[
+                   "Salamanca",
+                   "Segovia",
+                   "Ávila"
+                ]
+             },
+             {
+                "estado":"País Vasco",
+                "lugares":[
+                   "Bilbao",
+                   "San Sebastián",
+                   "Museo Guggenheim Bilbao"
+                ]
+             },
+             {
+                "estado":"Galicia",
+                "lugares":[
+                   "Santiago de Compostela",
+                   "La Coruña",
+                   "Islas Cíes"
+                ]
+             },
+             {
+                "estado":"Castilla-La Mancha",
+                "lugares":[
+                   "Toledo",
+                   "Ciudad Real",
+                   "Cuenca"
+                ]
+             },
+             {
+                "estado":"Canarias",
+                "lugares":[
+                   "Santa Cruz de Tenerife",
+                   "Las Palmas de Gran Canaria",
+                   "Parque Nacional del Teide"
+                ]
+             },
+             {
+                "estado":"Murcia",
+                "lugares":[
+                   "Murcia (Ciudad)",
+                   "Cartagena",
+                   "Lorca"
+                ]
+             }
+          ],
+          "Francia":[
+             {
+                "estado":"Île-de-France",
+                "lugares":[
+                   "París (Ciudad)",
+                   "Torre Eiffel",
+                   "Museo del Louvre"
+                ]
+             },
+             {
+                "estado":"Provenza-Alpes-Costa Azul",
+                "lugares":[
+                   "Marsella",
+                   "Niza",
+                   "Cannes"
+                ]
+             },
+             {
+                "estado":"Auvernia-Ródano-Alpes",
+                "lugares":[
+                   "Lyon",
+                   "Annecy",
+                   "Mont Blanc"
+                ]
+             },
+             {
+                "estado":"Nueva Aquitania",
+                "lugares":[
+                   "Burdeos",
+                   "Dordoña",
+                   "Biarritz"
+                ]
+             },
+             {
+                "estado":"Occitania",
+                "lugares":[
+                   "Toulouse",
+                   "Carcasona",
+                   "Montpellier"
+                ]
+             },
+             {
+                "estado":"Gran Este",
+                "lugares":[
+                   "Estrasburgo",
+                   "Colmar",
+                   "Ruta de los Vinos de Alsacia"
+                ]
+             },
+             {
+                "estado":"Borgoña-Franco Condado",
+                "lugares":[
+                   "Dijon",
+                   "Beaune",
+                   "Abadía de Cluny"
+                ]
+             },
+             {
+                "estado":"Normandía",
+                "lugares":[
+                   "Caen",
+                   "Rouen",
+                   "Monte Saint-Michel"
+                ]
+             },
+             {
+                "estado":"Altos de Francia",
+                "lugares":[
+                   "Lille",
+                   "Amiens",
+                   "Valle del Somme"
+                ]
+             },
+             {
+                "estado":"Centro-Valle de Loira",
+                "lugares":[
+                   "Orléans",
+                   "Tours",
+                   "Castillo de Chambord"
+                ]
+             }
+          ],
+          "Alemania":[
+             {
+                "estado":"Renania del Norte-Westfalia",
+                "lugares":[
+                   "Colonia",
+                   "Düsseldorf",
+                   "Parque Nacional de Eifel"
+                ]
+             },
+             {
+                "estado":"Baviera",
+                "lugares":[
+                   "Múnich",
+                   "Castillo de Neuschwanstein",
+                   "Lago de Constanza"
+                ]
+             },
+             {
+                "estado":"Baden-Wurtemberg",
+                "lugares":[
+                   "Stuttgart",
+                   "Heidelberg",
+                   "Selva Negra"
+                ]
+             },
+             {
+                "estado":"Baja Sajonia",
+                "lugares":[
+                   "Hanóver",
+                   "Bremen",
+                   "Parque Nacional del Mar de Frisia"
+                ]
+             },
+             {
+                "estado":"Hesse",
+                "lugares":[
+                   "Fráncfort",
+                   "Wiesbaden",
+                   "Monte Feldberg"
+                ]
+             },
+             {
+                "estado":"Renania-Palatinado",
+                "lugares":[
+                   "Maguncia",
+                   "Tréveris",
+                   "Valle del Rin"
+                ]
+             },
+             {
+                "estado":"Sajonia",
+                "lugares":[
+                   "Dresde",
+                   "Leipzig",
+                   "Montañas de Erzgebirge"
+                ]
+             },
+             {
+                "estado":"Sarre",
+                "lugares":[
+                   "Saarbrücken",
+                   "Völklinger Hütte",
+                   "Saarschleife"
+                ]
+             },
+             {
+                "estado":"Schleswig-Holstein",
+                "lugares":[
+                   "Kiel",
+                   "Lübeck",
+                   "Costa de Frisia"
+                ]
+             },
+             {
+                "estado":"Brandeburgo",
+                "lugares":[
+                   "Potsdam",
+                   "Brandeburgo",
+                   "Spreewald"
+                ]
+             }
+          ],
+          "Japón":[
+             {
+                "estado":"Tokio",
+                "lugares":[
+                   "Tokio (Ciudad)",
+                   "Shibuya",
+                   "Templo Senso-ji"
+                ]
+             },
+             {
+                "estado":"Kanagawa",
+                "lugares":[
+                   "Yokohama",
+                   "Kamakura",
+                   "Monte Fuji"
+                ]
+             },
+             {
+                "estado":"Osaka",
+                "lugares":[
+                   "Osaka (Ciudad)",
+                   "Castillo de Osaka",
+                   "Universal Studios Japan"
+                ]
+             },
+             {
+                "estado":"Aichi",
+                "lugares":[
+                   "Nagoya",
+                   "Templo de Atsuta",
+                   "Parque Conmemorativo de Meiji-Mura"
+                ]
+             },
+             {
+                "estado":"Hokkaido",
+                "lugares":[
+                   "Sapporo",
+                   "Noboribetsu",
+                   "Monte Yotei"
+                ]
+             },
+             {
+                "estado":"Fukuoka",
+                "lugares":[
+                   "Fukuoka (Ciudad)",
+                   "Parque Ohori",
+                   "Templo de Dazaifu Tenmangu"
+                ]
+             },
+             {
+                "estado":"Saitama",
+                "lugares":[
+                   "Saitama (Ciudad)",
+                   "Omiya",
+                   "Parque Bonsai de Omiya"
+                ]
+             },
+             {
+                "estado":"Chiba",
+                "lugares":[
+                   "Chiba (Ciudad)",
+                   "Narita",
+                   "Tokyo Disney Resort"
+                ]
+             },
+             {
+                "estado":"Hyogo",
+                "lugares":[
+                   "Kobe",
+                   "Himeji",
+                   "Monte Rokko"
+                ]
+             },
+             {
+                "estado":"Hiroshima",
+                "lugares":[
+                   "Hiroshima (Ciudad)",
+                   "Memorial de la Paz de Hiroshima",
+                   "Miyajima"
+                ]
+             }
+          ],
+          "China":[
+             {
+                "estado":"Pekín",
+                "lugares":[
+                   "Pekín (Ciudad)",
+                   "Ciudad Prohibida",
+                   "Muralla China"
+                ]
+             },
+             {
+                "estado":"Shanghái",
+                "lugares":[
+                   "Shanghái (Ciudad)",
+                   "The Bund",
+                   "Jardín Yuyuan"
+                ]
+             },
+             {
+                "estado":"Guangdong",
+                "lugares":[
+                   "Guangzhou",
+                   "Shenzhen",
+                   "Parque Nacional de Zhangjiajie"
+                ]
+             },
+             {
+                "estado":"Tianjin",
+                "lugares":[
+                   "Tianjin (Ciudad)",
+                   "Haihe River",
+                   "Antigua Ciudad de Yangliuqing"
+                ]
+             },
+             {
+                "estado":"Jiangsu",
+                "lugares":[
+                   "Nanjing",
+                   "Suzhou",
+                   "Canal de Suzhou"
+                ]
+             },
+             {
+                "estado":"Zhejiang",
+                "lugares":[
+                   "Hangzhou",
+                   "Lago del Oeste",
+                   "Canal de Hangzhou"
+                ]
+             },
+             {
+                "estado":"Sichuan",
+                "lugares":[
+                   "Chengdu",
+                   "Leshan",
+                   "Monte Emei"
+                ]
+             },
+             {
+                "estado":"Shaanxi",
+                "lugares":[
+                   "Xi'an",
+                   "Ejército de Terracota",
+                   "Pagoda de la Oca Salvaje"
+                ]
+             },
+             {
+                "estado":"Hunan",
+                "lugares":[
+                   "Changsha",
+                   "Zhangjiajie",
+                   "Montañas de Wulingyuan"
+                ]
+             },
+             {
+                "estado":"Hubei",
+                "lugares":[
+                   "Wuhan",
+                   "Tres Gargantas",
+                   "Monte Wudang"
+                ]
+             }
+          ]
+       }
+    ]
+ }

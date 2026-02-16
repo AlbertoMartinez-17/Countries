@@ -1,0 +1,123 @@
+[{
+    "Estados Unidos": [
+        {"estado": "California"},
+        {"estado": "Texas"},
+        {"estado": "Florida"},
+        {"estado": "Nueva York"},
+        {"estado": "Illinois"},
+        {"estado": "Pensilvania"},
+        {"estado": "Ohio"},
+        {"estado": "Georgia"},
+        {"estado": "Carolina del Norte"},
+        {"estado": "Míchigan"}
+    ],
+    "Canadá": [
+        {"estado": "Ontario"},
+        {"estado": "Quebec"},
+        {"estado": "Nueva Escocia"},
+        {"estado": "Nuevo Brunswick"},
+        {"estado": "Manitoba"},
+        {"estado": "Columbia Británica"},
+        {"estado": "Isla del Príncipe Eduardo"},
+        {"estado": "Saskatchewan"},
+        {"estado": "Alberta"},
+        {"estado": "Terranova y Labrador"}
+    ],
+    "México": [
+        {"estado": "Ciudad de México"},
+        {"estado": "Jalisco"},
+        {"estado": "Nuevo León"},
+        {"estado": "Veracruz"},
+        {"estado": "Puebla"},
+        {"estado": "Guanajuato"},
+        {"estado": "Chiapas"},
+        {"estado": "Oaxaca"},
+        {"estado": "Chihuahua"},
+        {"estado": "Michoacán"}
+    ],
+    "Brasil": [
+        {"estado": "São Paulo"},
+        {"estado": "Río de Janeiro"},
+        {"estado": "Minas Gerais"},
+        {"estado": "Bahía"},
+        {"estado": "Paraná"},
+        {"estado": "Río Grande del Sur"},
+        {"estado": "Pernambuco"},
+        {"estado": "Ceará"},
+        {"estado": "Pará"},
+        {"estado": "Maranhão"}
+    ],
+    "Argentina": [
+        {"estado": "Buenos Aires"},
+        {"estado": "Córdoba"},
+        {"estado": "Santa Fe"},
+        {"estado": "Mendoza"},
+        {"estado": "Tucumán"},
+        {"estado": "Entre Ríos"},
+        {"estado": "Salta"},
+        {"estado": "Misiones"},
+        {"estado": "Chaco"},
+        {"estado": "Corrientes"}
+    ],
+    "España": [
+        {"estado": "Madrid"},
+        {"estado": "Cataluña"},
+        {"estado": "Andalucía"},
+        {"estado": "Valencia"},
+        {"estado": "Castilla y León"},
+        {"estado": "País Vasco"},
+        {"estado": "Galicia"},
+        {"estado": "Castilla-La Mancha"},
+        {"estado": "Canarias"},
+        {"estado": "Murcia"}
+    ],
+    "Francia": [
+        {"estado": "Île-de-France"},
+        {"estado": "Provenza-Alpes-Costa Azul"},
+        {"estado": "Auvernia-Ródano-Alpes"},
+        {"estado": "Nueva Aquitania"},
+        {"estado": "Occitania"},
+        {"estado": "Gran Este"},
+        {"estado": "Borgoña-Franco Condado"},
+        {"estado": "Normandía"},
+        {"estado": "Altos de Francia"},
+        {"estado": "Centro-Valle de Loira"}
+    ],
+    "Alemania": [
+        {"estado": "Renania del Norte-Westfalia"},
+        {"estado": "Baviera"},
+        {"estado": "Baden-Wurtemberg"},
+        {"estado": "Baja Sajonia"},
+        {"estado": "Hesse"},
+        {"estado": "Renania-Palatinado"},
+        {"estado": "Sajonia"},
+        {"estado": "Sarre"},
+        {"estado": "Schleswig-Holstein"},
+        {"estado": "Brandeburgo"}
+    ],
+    "Japón": [
+        {"estado": "Tokio"},
+        {"estado": "Kanagawa"},
+        {"estado": "Osaka"},
+        {"estado": "Aichi"},
+        {"estado": "Hokkaido"},
+        {"estado": "Fukuoka"},
+        {"estado": "Saitama"},
+        {"estado": "Chiba"},
+        {"estado": "Hyogo"},
+        {"estado": "Hiroshima"}
+    ],
+    "China": [
+        {"estado": "Pekín"},
+        {"estado": "Shanghái"},
+        {"estado": "Guangdong"},
+        {"estado": "Tianjin"},
+        {"estado": "Jiangsu"},
+        {"estado": "Zhejiang"},
+        {"estado": "Sichuan"},
+        {"estado": "Shaanxi"},
+        {"estado": "Hunan"},
+        {"estado": "Hubei"}
+    ]
+}
+]

@@ -1,0 +1,42 @@
+[
+   {
+      "id": 1,
+      "nombre": "Estados Unidos"
+   },
+   {
+      "id": 2,
+      "nombre": "Canadá"
+   },
+   {
+      "id": 3,
+      "nombre": "México"
+   },
+   {
+      "id": 4,
+      "nombre": "Brasil"
+   },
+   {
+      "id": 5,
+      "nombre": "Argentina"
+   },
+   {
+      "id": 6,
+      "nombre": "España"
+   },
+   {
+      "id": 7,
+      "nombre": "Francia"
+   },
+   {
+      "id": 8,
+      "nombre": "Alemania"
+   },
+   {
+      "id": 9,
+      "nombre": "Japón"
+   },
+   {
+      "id": 10,
+      "nombre": "China"
+   }
+]
